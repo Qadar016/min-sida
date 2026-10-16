@@ -1,0 +1,25 @@
+.Hero { display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  background-color: #0e348b;
+  color: #c91313;
+  text-align: center; 
+  width: 40px;
+  height: 40px;
+
+} 
+
+.hero-bild {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.hero-intro {
+  margin: 0 0 16px;
+  color: #7e2b60;
+  font-size: 18px;
+  font-weight: 600;
+}
