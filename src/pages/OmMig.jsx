@@ -1,5 +1,8 @@
+import { useState } from "react";
+
 import "./OmMig.css";
 import jamesBild from "../assets/Hero1.png";
+
 
 function OmMig() {
   return (

@@ -1,6 +1,6 @@
 
 import './Hero.css';
-import heroBild from '../assets/Hero1.png'; 
+import heroBild from '../assets/klocka.png';
 
 function Hero() {
   return (

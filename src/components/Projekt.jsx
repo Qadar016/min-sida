@@ -1,6 +1,6 @@
 import "./Projekt.css";
 import ProjektKort from "./ProjektKort";
-import bild1 from "../assets/Hero1.png";
+import bild1 from "../assets/klocka.png";
 import bild2 from "../assets/Hero4.webp";
 import bild3 from "../assets/Hero3.webp";
 

@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Hem from "./pages/Hem";
 import OmMig from "./pages/OmMig";
 import Kontak from "./pages/Kontak";
+import Raknare from "./components/Raknare";
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
         <Route path="/" element={<Hem />} />
         <Route path="/om-mig" element={<OmMig />} />
         <Route path="/kontakt" element={<Kontak />} />
+        <Route path="/raknare" element={<Raknare />} />
+
       </Routes>
 
       <Footer />
